@@ -3,11 +3,11 @@
 This is a simple chatbot with selectable English proficiency levels, integrated TTS, and a NLP for providing linguistic insights on bot responses.
 
 ## Technologies Used
-* Gemini AI
-* Flet with Python
-* Pillow for image processing
-* ElevenLabs API for TTS functionality
-* Spacy - NLP
+* [Gemini AI](https://deepmind.google/technologies/gemini/#introduction)
+* [Flet](https://flet.dev/) with Python
+* [Pillow](https://pillow.readthedocs.io/en/stable/) for image processing
+* [ElevenLabs API](https://elevenlabs.io/docs/introduction) for TTS functionality
+* [Spacy](https://spacy.io/) - NLP
 
 # Installation
 
