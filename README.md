@@ -7,6 +7,7 @@ This is a simple chatbot with selectable English proficiency levels, integrated 
 * Flet with Python
 * Pillow for image processing
 * ElevenLabs API for TTS functionality
+* Spacy - NLP
 
 # Installation
 
