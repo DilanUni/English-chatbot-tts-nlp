@@ -167,11 +167,11 @@ def main(page: ft.Page):
 
         spacy_proccessing(gemini_response)
 
-        # audio_path = output_path_format()
+        audio_path = output_path_format()
 
-        # tts(text=gemini_response, output_path=audio_path)
+        tts(text=gemini_response, output_path=audio_path)
 
-        # play_audio(audio_path)
+        play_audio(audio_path)
 
         page.update()
         page.pubsub.send_all(
